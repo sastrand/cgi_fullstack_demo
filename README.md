@@ -17,17 +17,17 @@ After cloning this repository, copy its contents to `public_html`
 
 Then, inside `public_html`:
 
-  * Configure the permissions of all the files here to be readable and executable to the world (and writeable to you).   
+  * Configure the permissions of all the files here to be readable and executable to the world (and writeable to you).       
     `chmod 755 *`
 
-  * Create a python3 virtual environment. 
+  * Create a python3 virtual environment.    
     `virtualenv -p python3 venv`
 
-  * Activate it.
+  * Activate it.    
     `source venv/bin/activate`
 
-  * Install the requirements.
+  * Install the requirements.    
     `pip install -r requirements.txt`
 
-  * And start up the server.
+  * And start up the server.    
     `python3 myapp.py`
