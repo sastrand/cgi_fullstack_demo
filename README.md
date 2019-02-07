@@ -2,9 +2,9 @@
 
 In this lab we'll use the...
 
-The University's file system is virtualized in a couple of ways, so to avoid re-creating some symbolic links, we'll use the `public_html` directory they provide by default in your user profile home directory.    
+We'll use the `public_html` directory provided by default in your Linux user profile home directory.    
 
-If you do need to re-create it, you can read about how to do that [here](https://cat.pdx.edu/services/web/account-websites/).
+The University's file system is virtualized in a couple of ways, so that directory is actually a symbolic link to the *actual* `public_html` directory in the solaris file system. If you need to re-create this sym link, you can read about how to do that [here](https://cat.pdx.edu/services/web/account-websites/).
 
 
 ## Setup
