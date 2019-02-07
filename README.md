@@ -42,7 +42,7 @@ Then, inside `public_html`:
   * Install the requirements.    
     `pip install -r requirements.txt`
 
-## Next Steps
+## Next steps
 
 Project 0: Modify this web app to record the names of visitors and return a list of past vistors below the greeting to each new visitor.
 
@@ -50,7 +50,7 @@ Project 1: Modify this web app to take two numbers and return their sum.
 
 Project 2: Build a web app for a diner that allows customers to place orders off the menu. On the main page of the app, list each menu item and provide an input box for a customer to select how many of that item they'd like to order. On the back-end send an email to the diner with each request.
 
-## Resources
+## Further reading
 
 For more information about front-end code (HTML, CSS and JavaScript), the [Mozilla Develop Network](https://developer.mozilla.org/en-US/docs/Learn) is an excellent resource.  
 
