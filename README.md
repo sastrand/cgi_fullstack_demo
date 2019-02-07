@@ -58,6 +58,7 @@ For more information about Python flask and the jinja template system, the flask
 
 To send an email through a python application, check out the [`smtplib`](https://docs.python.org/2/library/smtplib.html) package and this [tutorial](http://naelshiab.com/tutorial-send-email-python/).
 
+To read more about CGI support of Python Flask apps in particular, [these](http://flask.pocoo.org/docs/0.12/deploying/cgi/) Flask docs are a good place to start.
 
 ## Debugging
 
