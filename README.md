@@ -48,11 +48,15 @@ Project 0: Modify this web app to record the names of visitors and return a list
 
 Project 1: Modify this web app to take two numbers and return their sum.
 
-Project 1: Build a web app that 
+Project 2: Build a web app for a diner that allows customers to place orders off the menu. On the main page of the app, list each menu item and provide an input box for a customer to select how many of that item they'd like to order. On the back-end send an email to the diner with each request.
+
+## Resources
 
 For more information about front-end code (HTML, CSS and JavaScript), the [Mozilla Develop Network](https://developer.mozilla.org/en-US/docs/Learn) is an excellent resource.  
 
 For more information about Python flask and the jinja template system, the flask [docs](http://flask.pocoo.org/docs/1.0/) are a great place to start.
+
+To send an email through a python application, check out the [`smtplib`](https://docs.python.org/2/library/smtplib.html) package and this [tutorial](http://naelshiab.com/tutorial-send-email-python/).
 
 
 ## Debugging
